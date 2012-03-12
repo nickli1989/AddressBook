@@ -1,0 +1,10 @@
+help
+insert li 133 il
+delete li 133 il
+insert li 133 il
+search 133
+search 331
+print all
+delete li 133 il
+aaaaaaaaa
+quit

@@ -1,0 +1,5 @@
+name=li, phone=133, address=il
+no such data
+name=li, phone=133, address=il
+please input the right command
+quit the address book
